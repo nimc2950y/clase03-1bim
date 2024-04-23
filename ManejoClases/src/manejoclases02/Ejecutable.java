@@ -11,7 +11,7 @@ public class Ejecutable {
         Hospital hospital = new Hospital();
         
         // Se asigna valores particulares al objeto
-        hospital.nombre = "Isidro Ayora";
+        hospital.nombre = "hospital Isidro Ayora";
         hospital.numeroCamas = 100;
         hospital.presupuesto = 560340.43;
         
